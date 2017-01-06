@@ -19,3 +19,6 @@
 ```
 
 * 'jquery data attribute'를 구글링 해보길 추천!
+* 
+
+made by 멋사 3,4기 대표 정유철
